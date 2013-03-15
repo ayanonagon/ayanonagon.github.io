@@ -1,0 +1,48 @@
+body {
+	font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+	color: #333;
+}
+
+p {
+	text-align:center;
+}
+
+h1 {
+	font-size: 20px;
+	text-align:center;
+}
+
+#main {
+	width: 150px;
+	height: 300px;
+}
+
+#ayaka {
+	width: 150px;
+	height: 150px;
+}
+
+.twitter {
+	font-size: 13px;
+}
+
+.project {
+	font-size: 13px;
+}
+
+.centered {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	margin-top: -150px;
+	margin-left: -75px;
+}
+
+a {
+	text-decoration: none;
+	color: #333;
+}
+
+a:hover {
+	font-style: italic;
+}
