@@ -14,7 +14,7 @@ h1 {
 
 #main {
 	width: 200px;
-	height: 400px;
+	height: 350px;
 }
 
 #ayaka {
@@ -34,7 +34,7 @@ h1 {
 	position: fixed;
 	top: 50%;
 	left: 50%;
-	margin-top: -200px;
+	margin-top: -175px;
 	margin-left: -100px;
 }
 
