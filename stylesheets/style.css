@@ -1,15 +1,15 @@
 body {
 	font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 	color: #333;
-}
-
-p {
 	text-align:center;
 }
 
 h1 {
-	font-size: 28px;
-	text-align:center;
+  font-size: 28px;
+}
+
+h2 {
+  font-size: 22px;
 }
 
 #main {
@@ -22,27 +22,11 @@ h1 {
 	height: 200px;
 }
 
-.twitter {
-	font-size: 18px;
-}
-
-.project {
-	font-size: 18px;
-}
-
-.centered {
-	position: fixed;
-	top: 50%;
-	left: 50%;
-	margin-top: -175px;
-	margin-left: -100px;
-}
-
 a {
 	text-decoration: none;
-	color: #333;
+	color: #C34242;
 }
 
 a:hover {
-	font-style: italic;
+	text-decoration: underline;
 }
